@@ -1,1 +1,1 @@
-# Titani_project
+# Titanic_project
